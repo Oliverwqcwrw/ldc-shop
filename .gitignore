@@ -43,5 +43,3 @@ next-env.d.ts
 # database
 postgres-data/
 
-# idea
-.idea
